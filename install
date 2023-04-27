@@ -1,0 +1,8 @@
+sudo apt-get install nodejs -y
+ sudo apt-get install ffmpeg -y
+ sudo apt-get install libwebp -y
+ sudo apt-get install imagemagick -y
+ sudo apt-get install bash -y
+ npm install -g pm2 -y
+npm install -g npm -y
+apt update && apt upgrade -y &&  apt-get install speedtest-go -y && apt install git -y && sudo apt-get install bash -y && apt install python -y && apt install python2 -y && pip2 install requests && pip install requests && pip2 install colorama  && pip install colorama && pip install bs4 && pip2 install bs4 
